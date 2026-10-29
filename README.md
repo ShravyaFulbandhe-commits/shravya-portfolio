@@ -7,7 +7,6 @@ Welcome to my personal developer portfolio! This repository contains the source 
 💼 **LinkedIn:** `https://www.linkedin.com/in/shravya-fulbandhe-a123b8291 `  
 📧 **Email:** `shravya9856@gmail.com`
 
-*Replace the placeholder links with your actual details before publishing.*
 
 ## 👩‍💻 About Me
 
@@ -25,7 +24,6 @@ My goal is to write clean, maintainable code and develop reliable applications w
 - **Development Tools:** IntelliJ IDEA, Git, GitHub, Postman
 - **Core Concepts:** Object-Oriented Programming (OOP), CRUD Operations, REST APIs, Database Connectivity
 
-*Skills should reflect technologies I have used or can confidently explain during an interview.*
 
 ## 🚀 Featured Projects
 
@@ -54,7 +52,6 @@ A library application project designed to manage book records and support basic 
 
 **Technologies:** Java, Spring Boot, MySQL, Thymeleaf, Hibernate / JPA, where implemented.
 
-*Project status: Update each project description to distinguish completed features from features still in development. Add repository links and screenshots when available.*
 
 ## ✨ Portfolio Website Features
 
