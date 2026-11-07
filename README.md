@@ -5,7 +5,7 @@ Welcome to my personal developer portfolio! This repository contains the source 
 🌐 **Live Portfolio:** `https:/shravyafulbandhe-commits.github.io/shravya-portfolio//shravya-portfolio/`  
 💻 **GitHub:** `https://github.com/shravyafulbandhe-commits`  
 💼 **LinkedIn:** `https://www.linkedin.com/in/shravya-fulbandhe-a123b8291 `  
-📧 **Email:** `shravya9856@gmail.com`
+📧 **Email:** `sfulbandhe125@gmail.com`
 
 
 ## 👩‍💻 About Me
